@@ -1,0 +1,17 @@
+{
+  "name": "coingecko",
+  "version": "1.0.0",
+  "description": "to pvu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "coingecko-api": "^1.0.10",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0"
+  }
+}
